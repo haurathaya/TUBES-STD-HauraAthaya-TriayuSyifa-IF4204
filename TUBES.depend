@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1556524726 source:c:\users\okama\documents\kuliah\tubes 2019\tubes\main.cpp
+	"tubes.h"
+
+1556524608 source:c:\users\okama\documents\kuliah\tubes 2019\tubes\tubes.cpp
+	"tubes.h"
+
+1556524091 source:c:\users\okama\documents\kuliah\tubes 2019\tubes\genre.cpp
+	"genre.h"
+
+1556524431 c:\users\okama\documents\kuliah\tubes 2019\tubes\genre.h
+	<iostream>
+	"lagu.h"
+
+1556514970 source:c:\users\okama\documents\kuliah\tubes 2019\tubes\lagu.cpp
+	"lagu.h"
+
+1556524431 c:\users\okama\documents\kuliah\tubes 2019\tubes\lagu.h
+	<iostream>
+
+1556524159 c:\users\okama\documents\kuliah\tubes 2019\tubes\tubes.h
+	<conio.h>
+	<stdlib.h>
+	"genre.h"
+
+1556524728 source:c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\main.cpp
+	"tubes.h"
+
+1556524160 c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\tubes.h
+	<conio.h>
+	<stdlib.h>
+	"genre.h"
+
+1556524432 c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\genre.h
+	<iostream>
+	"lagu.h"
+
+1556524432 c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\lagu.h
+	<iostream>
+
+1556525386 source:c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\genre.cpp
+	"genre.h"
+
+1556525748 source:c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\lagu.cpp
+	"lagu.h"
+
+1556525704 source:c:\users\thinkpad t410 i7 nvi\documents\tubes 2019\tubes\tubes.cpp
+	"tubes.h"
+
+1556525748 source:d:\data\std\tubes jadi\tubes\lagu.cpp
+	"lagu.h"
+
+1556524432 d:\data\std\tubes jadi\tubes\lagu.h
+	<iostream>
+
+1556524728 source:d:\data\std\tubes jadi\tubes\main.cpp
+	"tubes.h"
+
+1556524160 d:\data\std\tubes jadi\tubes\tubes.h
+	<conio.h>
+	<stdlib.h>
+	"genre.h"
+
+1556562253 d:\data\std\tubes jadi\tubes\genre.h
+	<iostream>
+	"lagu.h"
+
+1556562264 source:d:\data\std\tubes jadi\tubes\tubes.cpp
+	"tubes.h"
+
+1556562535 source:d:\data\std\tubes jadi\tubes\genre.cpp
+	"genre.h"
+
+1556600096 source:c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\genre.cpp
+	"genre.h"
+
+1556562254 c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\genre.h
+	<iostream>
+	"lagu.h"
+
+1556524432 c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\lagu.h
+	<iostream>
+
+1556601325 source:c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\lagu.cpp
+	"lagu.h"
+
+1556630071 source:c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\main.cpp
+	"tubes.h"
+
+1556524160 c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\tubes.h
+	<conio.h>
+	<stdlib.h>
+	"genre.h"
+
+1556601359 source:c:\users\okama\downloads\tubes jadi\tubes jadi\tubes\tubes.cpp
+	"tubes.h"
+
