@@ -34,13 +34,13 @@ void menuTambahLagu(ListGenre &LG)
             infotypeLagu Lagu;
             printListLagu(isi(G));
             cout << "\n TAMBAH DATA LAGU: " << endl;
-            cout << "JUDUL LAGU : " ;
+            cout << "JUDUL LAGU : " << endl;
             cin >> Lagu.judulLagu;
-            cout << "NAMA PENYANYI : " ;
+            cout << "NAMA PENYANYI : " << endl;
             cin >> Lagu.namaPenyanyi;
-            cout << "NAMA ALBUM: " ;
+            cout << "NAMA ALBUM: " << endl;
             cin >> Lagu.namaAlbum;
-            cout << "DURASI LAGU: " ;
+            cout << "DURASI LAGU: " << endl;
             cin >> Lagu.durasiLagu;
 
             if (!cekDuplikatLagu(isi(G), Lagu.judulLagu))

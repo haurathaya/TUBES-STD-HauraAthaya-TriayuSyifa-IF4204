@@ -98,8 +98,8 @@ void printListLagu (ListLagu LL)
     {
         cout << i << ". JUDUL LAGU : " << infoLagu(L).judulLagu << endl;
         cout << "   NAMA PENYANYI : " << infoLagu(L).namaPenyanyi << endl;
-        cout << "   NAMA ALBUM : " << infoLagu(L).namaAlbum << endl;
-        cout << "   DURASI LAGU : " << infoLagu(L).durasiLagu << endl;
+        cout << "   NAMA ALBUM : " << infoLagu(L).namaAlbum  << endl;
+        cout << "   DURASI LAGU : " << infoLagu(L).durasiLagu << " menit" << endl;
         i++;
         L = nextLagu(L);
     }
